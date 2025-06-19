@@ -1,3 +1,7 @@
+#Runtime beats 100 % .py solutions
+#author bhuvi-d
+
+
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         low = 0
